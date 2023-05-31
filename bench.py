@@ -4,6 +4,8 @@ import numpy as np
 import cupy as cp
 import torch
 from scipy.signal import welch
+import scipy
+print("scipy version:", scipy.__version__)
 
 
 def allocate_arr(namespace):
