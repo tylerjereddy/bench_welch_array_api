@@ -11,7 +11,7 @@ numpy_timings_sec = [5.911852240096778]
 
 numpy_strict_timings_sec = [18.297413507010788]
 
-cupy_timings_sec = [3.051068617030978]
+cupy_timings_sec = [0.10812997305765748]
 
 cupy_strict_timings_sec = [219.84708254877478]
 
@@ -20,7 +20,7 @@ torch_cpu_timings_sec = [0.5217398600652814]
 
 torch_cpu_strict_timings_sec = [244.07771029276773]
 
-torch_gpu_timings_sec = [0.23440365632995963]
+torch_gpu_timings_sec = [0.08464314742013812]
 
 torch_gpu_strict_timings_sec = [375.15701419021934]
 
